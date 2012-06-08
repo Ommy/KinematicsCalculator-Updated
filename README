@@ -1,0 +1,6 @@
+KinematicsCalculator-Updated
+=======================================
+=======================================
+This is an update to my previous application for the android market. This has an improved look to it along with a more compact code. It is more dynamic compared to the old version I had.
+
+This is an application for the Android market made by me a year ago. It does 1D kinematic calculations: initial/final velocity, acceleration, distance, and time. It was a small project I made to learn Android and the first version of mine seemed very hardcoded and really anooying to manage. So I re-did a couple of things to make the code more compact, readable, and dynamic.
