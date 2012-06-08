@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Kinematics Calculator</string>
+    <string name="app_name">PhysicsCalculator</string>
+    <string name="v1I">Initial Velocity</string>
+    <string name="v2I">Final Velocity</string>
+    <string name="aI">Acceleration</string>
+    <string name="dI">Distance</string>
+    <string name="tI">Time</string>
+    <string-array name="v1">
+        <item>Distance, Time, and Final Velocity</item>
+        <item>Final Velocity, Acceleration, and Time</item>
+        <item>Distance, Acceleration, and Time</item>
+        <item>Final Velocity, Acceleration, and Distance</item>
+    </string-array>
+    <string name="p2text">Select your givens</string>
+    <string-array name="v2">
+        <item>Initial Velocity, Distance, and Time</item>
+        <item>Initial Velocity, Acceleration, and Time</item>
+        <item>Distance, Time, and Acceleration</item>
+        <item>Initial Velocity, Acceleration, and Distance</item>
+    </string-array>
+    <string-array name="d">
+        <item>Initial Velocity, Final Velocity, and Time</item>
+        <item>Initial Velocity, Time, and Acceleration</item>
+        <item>Final Velocity, Time, and Acceleration</item>
+        <item>Initial Velocity, Final Velocity, and Acceleration</item>
+    </string-array>
+    <string-array name="t">
+        <item>Distance, Initial Velocity, and Final Velocity</item>
+        <item>Initial Velocity, Final Velocity, and Acceleration</item>
+        <item>Distance, Initial Velocity, and Acceleration</item>
+        <item>Distance, Final Velocity, and Acceleration</item>
+    </string-array>
+    <string-array name="a">
+        <item>Initial Velocity, Final Velocity, and Time</item>
+        <item>Distance, Initial Velocity, and Time</item>
+        <item>Distance, Final Velocity, and Time</item>
+        <item>Initial Velocity, Final Velocity, and Distance</item>
+    </string-array>
+    <string-array name="v1_array">
+        <item>Final Velocity</item>
+        <item>Acceleration</item>
+        <item>Distance</item>
+        <item>Time</item>
+    </string-array>
+    <string-array name="v2_array">
+        <item>Initial Velocity</item>
+        <item>Acceleration</item>
+        <item>Distance</item>
+        <item>Time</item>
+    </string-array>
+    <string-array name="d_array">
+        <item>Initial Velocity</item>
+        <item>Final Velocity</item>
+        <item>Acceleration</item>
+        <item>Time</item>
+    </string-array>
+    <string-array name="t_array">
+        <item>Initial Velocity</item>
+        <item>Final Velocity</item>
+        <item>Acceleration</item>
+        <item>Distance</item>
+    </string-array>
+    <string-array name="a_array">
+        <item>Initial Velocity</item>
+        <item>Final Velocity</item>
+        <item>Distance</item>
+        <item>Time</item>
+    </string-array>
+    <string-array name="EQN_Names">
+        <item>FinalVelocityAccelerationTime</item>
+        <item>FinalVelocityDistanceTime</item>
+        <item>DistanceAccelerationTime</item>
+        <item>FinalVelocityAccelerationDistance</item>
+        <item>InitialVelocityTimeDistance</item>
+        <item>InitialVelocityAccelerationTime</item>
+        <item>InitialVelocityAccelerationDistance</item>
+        <item>InitialVelocityFinalVelocityDistance</item>
+        <item>FinalVelocityTimeDistance</item>
+        <item>InitialVelocityFinalVelocityTime</item>
+        <item>InitialVelocityFinalVelocityAcceleration</item>
+    </string-array>
+	<string-array name="ALL_EQNS">
+        <item>Distance, Time, and Final Velocity</item>
+        <item>Final Velocity, Acceleration, and Time</item>
+        <item>Distance, Acceleration, and Time</item>
+        <item>Final Velocity, Acceleration, and Distance</item>
+        <item>Initial Velocity, Distance, and Time</item>
+        <item>Initial Velocity, Acceleration, and Time</item>
+        <item>Distance, Time, and Acceleration</item>
+        <item>Initial Velocity, Acceleration, and Distance</item>
+        <item>Distance, Initial Velocity, and Final Velocity</item>
+        <item>Initial Velocity, Final Velocity, and Acceleration</item>
+        <item>Distance, Initial Velocity, and Acceleration</item>
+        <item>Distance, Final Velocity, and Acceleration</item>
+        <item>Initial Velocity, Final Velocity, and Time</item>
+        <item>Initial Velocity, Time, and Acceleration</item>
+        <item>Final Velocity, Time, and Acceleration</item>
+        <item>Initial Velocity, Final Velocity, and Acceleration</item>
+        <item>Initial Velocity, Final Velocity, and Time</item>
+        <item>Distance, Initial Velocity, and Time</item>
+        <item>Distance, Final Velocity, and Time</item>
+        <item>Initial Velocity, Final Velocity, and Distance</item>
+        </string-array>
+</resources>

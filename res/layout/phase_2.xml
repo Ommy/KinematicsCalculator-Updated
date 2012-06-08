@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:background = "@drawable/wf"
+  android:layout_height="match_parent">
+  
+  <TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    android:textSize = "40px"
+    android:textColor = "#FFFFFF"
+    android:shadowColor = "#708090"
+    android:shadowDx = "2.4"
+    android:shadowDy = "0.5"
+    android:gravity = "center"
+    android:text="@string/p2text"
+    />
+    
+<Button
+	android:id="@+id/ch1"
+	android:layout_width="fill_parent"
+	android:background = "@drawable/btn_norm"
+	android:textColor = "#FFFFFF"
+	android:layout_height="wrap_content"
+	android:text="@string/aI"
+	/>
+<Button
+	android:id="@+id/ch2"
+	android:layout_width="fill_parent"
+	android:background = "@drawable/btn_norm"
+	android:textColor = "#FFFFFF"
+	android:layout_height="wrap_content"
+	android:text="@string/aI"
+	/>
+<Button
+	android:id="@+id/ch3"
+	android:layout_width="fill_parent"
+	android:background = "@drawable/btn_norm"
+	android:textColor = "#FFFFFF"
+	android:layout_height="wrap_content"
+	android:text="@string/aI"
+	/>
+<Button
+	android:id="@+id/ch4"
+	android:layout_width="fill_parent"
+	android:background = "@drawable/btn_norm"
+	android:textColor = "#FFFFFF"
+	android:layout_height="wrap_content"
+	android:text="@string/aI"
+	/>
+</LinearLayout>

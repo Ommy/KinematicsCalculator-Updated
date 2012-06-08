@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:background = "@drawable/wf"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+    
+  <TextView
+  	android:id = "@+id/answer"  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    android:textSize = "36px"
+    android:textColor = "#FFFFFF"
+    android:shadowColor = "#708090"
+    android:shadowDx = "2.4"
+    android:shadowDy = "0.5"
+    android:gravity = "center"
+    />
+    <Button
+	android:id="@+id/back"
+	android:layout_width="fill_parent"
+	android:background = "@drawable/btn_norm"
+	android:textColor = "#FFFFFF"
+	android:layout_height="wrap_content"
+	android:text="Back"
+	/>
+</LinearLayout>

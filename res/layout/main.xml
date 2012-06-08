@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:background = "@drawable/wf"
+    android:layout_height="fill_parent"
+    >
+﻿
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    android:textSize = "40px"
+    android:textColor = "#FFFFFF"
+    android:shadowColor = "#708090"
+    android:shadowDx = "2.4"
+    android:shadowDy = "0.5"
+    android:gravity = "center"
+    android:text="@string/hello"
+    />
+<Button
+	android:id= "@+id/v1BTN"
+	android:background = "@drawable/btn_norm"
+	android:textColor = "#FFFFFF"
+	android:layout_width="fill_parent"
+	android:layout_height = "wrap_content"
+	android:text = "@string/v1I"
+	/>
+<Button
+	android:id="@+id/v2BTN"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:background = "@drawable/btn_norm"
+	android:textColor = "#FFFFFF"
+	android:text = "@string/v2I"
+	/>
+<Button
+	android:id="@+id/aBTN"
+	android:layout_width="fill_parent"
+	android:background = "@drawable/btn_norm"
+	android:textColor = "#FFFFFF"
+	android:layout_height="wrap_content"
+	android:text="@string/aI"
+	/>
+<Button
+	android:id="@+id/dBTN"
+	android:layout_width="fill_parent"
+	android:background = "@drawable/btn_norm"
+	android:textColor = "#FFFFFF"
+	android:layout_height="wrap_content"
+	android:text="@string/dI"
+	/>
+<Button
+	android:id="@+id/tBTN"
+	android:layout_width="fill_parent"
+	android:background = "@drawable/btn_norm"
+	android:textColor = "#FFFFFF"
+	android:layout_height="wrap_content"
+	android:text="@string/tI"
+	/>
+<Button
+	android:id= "@+id/first"
+	android:background = "@drawable/btn_norm"
+	android:textColor = "#FF0000"
+	android:layout_width="fill_parent"
+	android:layout_height = "wrap_content"
+	android:text = "First time using application?\n Press!"
+	/>
+
+</LinearLayout>
